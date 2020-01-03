@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalculatorInputView">
+        <attr name="Item_text" format="string"/>
+        <attr name="Item_icon" format="reference"/>
+    </declare-styleable>
+</resources>
